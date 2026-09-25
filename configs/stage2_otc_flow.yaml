@@ -1,0 +1,7 @@
+manifest: /path/to/ct_tee_pairs.jsonl
+vqvae_source: /path/to/vqvae_checkpoint
+output_dir: /path/to/otc_flow_checkpoint
+epochs: 20
+batch_size: 32
+learning_rate: 0.0001
+num_workers: 8
