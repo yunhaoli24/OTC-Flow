@@ -1,14 +1,3 @@
----
-library_name: pytorch
-license: mit
-tags:
-- medical-imaging
-- ultrasound
-- image-generation
-- ct-to-tee
-pipeline_tag: image-to-image
----
-
 # OTC-Flow
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-OTC--Flow-yellow)](https://huggingface.co/lealaxy/OTC-Flow)
