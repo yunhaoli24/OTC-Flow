@@ -1,8 +1,8 @@
-# OTC-Flow
+# [MICCAI26] OT-Coupled Flow: Towards Realistic TEE Simulation via Unpaired Cross-Modality Translation with Anatomical Consistency
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-OTC--Flow-yellow)](https://huggingface.co/lealaxy/OTC-Flow)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 **Yunhao Li<sup>1</sup>, Yidan Feng<sup>1</sup><sup>⋆</sup>, Ho-On Alston Conrad Chiu<sup>2</sup>, Simon Cheung-Chi Lam<sup>2</sup>, Yan Pang<sup>3</sup>, Qiong Wang<sup>3</sup>, Chun-Ka Wong<sup>2</sup>, Jing Qin<sup>1,4,5</sup>**
-
-<sup>⋆</sup> Corresponding author
 
 <sup>1</sup> The Center for Smart Health, School of Nursing, The Hong Kong Polytechnic University, Hong Kong, China  
 <sup>2</sup> Queen Mary Hospital, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong, China  
@@ -10,11 +10,9 @@
 <sup>4</sup> CAS SIAT-PolyU Multi-modal Medical Molecular Imaging Joint Laboratory, The Hong Kong Polytechnic University, Hong Kong, China  
 <sup>5</sup> PolyU-Qianhai Technology and Innovation Research Centre, The Hong Kong Polytechnic University, Hong Kong, China
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-OTC--Flow-yellow)](https://huggingface.co/lealaxy/OTC-Flow)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+<sup>⋆</sup> Corresponding author
 
-> **OT-Coupled Flow: Towards Realistic TEE Simulation via Unpaired Cross-Modality
-> Translation with Anatomical Consistency**
+
 
 This repository contains the public implementation accompanying the published
 manuscript. OTC-Flow synthesizes transesophageal echocardiography (TEE)-like images
