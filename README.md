@@ -1,6 +1,8 @@
 # OTC-Flow
 
-**Yunhao Li<sup>1</sup>, Yidan Feng<sup>1</sup>, Ho-On Alston Conrad Chiu<sup>2</sup>, Simon Cheung-Chi Lam<sup>2</sup>, Yan Pang<sup>3</sup>, Qiong Wang<sup>3</sup>, Chun-Ka Wong<sup>2</sup>, Jing Qin<sup>1,4,5</sup>**
+**Yunhao Li<sup>1</sup>, Yidan Feng<sup>1</sup><sup>⋆</sup>, Ho-On Alston Conrad Chiu<sup>2</sup>, Simon Cheung-Chi Lam<sup>2</sup>, Yan Pang<sup>3</sup>, Qiong Wang<sup>3</sup>, Chun-Ka Wong<sup>2</sup>, Jing Qin<sup>1,4,5</sup>**
+
+<sup>⋆</sup> Corresponding author
 
 <sup>1</sup> The Center for Smart Health, School of Nursing, The Hong Kong Polytechnic University, Hong Kong, China  
 <sup>2</sup> Queen Mary Hospital, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong, China  
