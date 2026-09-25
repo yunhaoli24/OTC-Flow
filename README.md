@@ -125,6 +125,21 @@ The trained weights are intended to be distributed through
 [`lealaxy/OTC-Flow`](https://huggingface.co/lealaxy/OTC-Flow). The source release
 does not contain a `checkpoints/` directory.
 
+### Model card
+
+The Hugging Face repository contains the converted OTC-Flow weights and config:
+
+| File | Description |
+| --- | --- |
+| `model.safetensors` | OTC-Flow model weights, including the frozen TEE VQ-VAE |
+| `config.json` | Self-contained Hugging Face model configuration |
+
+The model is intended for research use on CT-derived TEE simulation. It does not
+produce a clinically acquired TEE frame, and generated images should not be used
+for diagnosis or treatment decisions. The release does not include medical data;
+users must prepare inputs according to the tensor contracts below and comply with
+the licenses and governance requirements of their data sources.
+
 ```bash
 hf download lealaxy/OTC-Flow --local-dir /path/to/otc_flow_checkpoint
 uv run otc-flow-infer \
